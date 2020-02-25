@@ -13,7 +13,7 @@ const STYLES = [
     "btn--home",
 ];
 
-const SIZES = ["btn--large"];
+const SIZES = ["btn--large", "btn--homesize"];
 
 export const Button = ({
     children,
