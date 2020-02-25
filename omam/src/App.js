@@ -16,17 +16,6 @@ import {Route} from 'react-router-dom'
 class App extends React.Component{
   render(){
     return(
-<<<<<<< HEAD
-    <div>
-      <div className="omamlogo">
-        <center>
-          <img src = {Img} alt="Logo"/>
-        </center>
-      </div>
-      <div className="btn1">
-        <button variant="primary">Author & His Arguments</button>
-      </div>
-=======
     <div className="omamlogo">
       <center>
         <img src = {Img} alt="Logo"/>
