@@ -4,7 +4,8 @@ import Img from './OMAMlogo.jpg';
 
 class App extends React.Component{
   render(){
-    return(<div>
+    return(
+    <div className="omamlogo">
       <center>
         <img src = {Img} alt="Logo"/>
       </center>
