@@ -1,12 +1,17 @@
 import React from 'react';
 import './App.css';
+import Img from './OMAMlogo.jpg';
 
-function App() {
-  return (
-    <div>
-      <h1>Testing...</h1>
+class App extends React.Component{
+  render(){
+    return(<div>
+      <center>
+        <img src = {Img} alt="Logo"/>
+      </center>
     </div>
-  );
+    );
+  }
 }
 
-export default App;
+export default App
+
