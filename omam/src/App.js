@@ -1,14 +1,14 @@
 import React from 'react';
 import './App.css';
 import Img from './OMAMlogo.jpg';
-import Author from './Author'
-import Citation from './Citation'
-import Credits from './Credits'
-import Data from './Data'
-import History from './History'
-import List from './List'
-import Map from './Map'
-import Methods from './Methods'
+import Author from './individualpages/Author'
+import Citation from './individualpages/Citation'
+import Credits from './individualpages/Credits'
+import Data from './individualpages/Data'
+import History from './individualpages/History'
+import List from './individualpages/List'
+import Map from './individualpages/Map'
+import Methods from './individualpages/Methods'
 import NavBar from './NavBar'
 import {Route} from 'react-router-dom'
 
