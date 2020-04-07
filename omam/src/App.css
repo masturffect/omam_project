@@ -38,13 +38,14 @@
 }
 
 .omamlogo{
-  margin-top: 200px;
-  width: 600px;
-  margin-left: 400px;
+  position: absolute;
+  top: 225px;
+  left: 350px;
 }
 
 .btn1{
-  background-color: orangered;
-  width: 30px;
-  margin-top: 1px;
+  outline-color: orangered;
+  position: absolute;
+  left: 200px;
+  top: 150px;
 }

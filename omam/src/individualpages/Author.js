@@ -1,11 +1,18 @@
 import React from 'react'
+import './Author.css';
 
-function Author(){
-    return(
-        <div>
-            <h1>Welcome to the Author's site and his argument!</h1>
-        </div>
-    )
-}
+const Author = () =>(
+    <div className="Author">
+        <h1>Welcome to the Author's site and his argument</h1>
+    </div>
+)
+
+//function Author(){
+ //   return(
+   //     <div>
+     //       <h1>Welcome to the Author's site and his argument!</h1>
+       // </div>
+   // )
+//}
 
 export default Author;
