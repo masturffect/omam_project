@@ -1,0 +1,21 @@
+.author_btn{
+    margin-left: 60px;
+    margin-top: 90px;
+    font-family: Courier, sans-serif;
+    font-size: 30px;
+    background-color: green;
+    color: white;
+    padding: 40px 20px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 0 10px #999;
+}
+
+.author_btn:hover {background-color: black}
+
+.author_btn:active {
+    background-color: black;
+    box-shadow: 0 6px #666;
+    transform: translateY(5px);
+}
