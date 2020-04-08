@@ -1,5 +1,5 @@
 .btn{
-    font-family: Courier, sans-serif;
+    font-family: 'TitlingGothicFBCompRegular';
     font-size: 22px;
     padding: 40px 30px;
     display: inline-block;
@@ -7,6 +7,8 @@
     white-space: normal;
     width: 200px;
 }
+
+
 
 .btn:hover {background-color: black; color: white;}
 
@@ -66,7 +68,7 @@
 }
 
 .btn--large{
-    font-family: Courier, sans-serif;
+    font-family: 'TitlingGothicFBCompRegular';
     font-size: 22px;
     font-weight: bolder;
     padding: 40px 30px;
