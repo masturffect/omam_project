@@ -2,17 +2,16 @@ import React from 'react';
 import './App.css';
 import Img from './OMAMlogo.jpg';
 import { Button } from './Components/Buttons'
-//import Author from './individualpages/Author'
-//import Citation from './individualpages/Citation'
-//import Credits from './individualpages/Credits'
-//import Data from './individualpages/Data'
-//import History from './individualpages/History'
-//import List from './individualpages/List'
-//import Map from './individualpages/Map'
-//import Methods from './individualpages/Methods'
-//import NavBar from './NavBar'
-//import {Route} from 'react-router-dom'
-
+import Author from './individualpages/Author'
+import Citation from './individualpages/Citation'
+import Credits from './individualpages/Credits'
+import Data from './individualpages/Data'
+import History from './individualpages/History'
+import List from './individualpages/List'
+import Map from './individualpages/Map'
+import Methods from './individualpages/Methods'
+import {Route} from 'react-router-dom'
+import {Link} from 'react-router-dom'
 
 class App extends React.Component{
   render(){
@@ -22,9 +21,7 @@ class App extends React.Component{
         <center>
           <img src = {Img} alt="Logo"/>
         </center>
-
-        {/* <NavBar />
-        <Route exact path="/" component={Author}/>
+        <Route exact path="/author" component={Author}/>
         <Route exact path="/citation" component={Citation}/>
         <Route exact path="/credits" component={Credits}/>
         <Route exact path="/data" component={Data}/>
@@ -32,11 +29,10 @@ class App extends React.Component{
         <Route exact path="/list" component={List}/>
         <Route exact path="/map" component={Map}/>
         <Route exact path="/methods" component={Methods}/>
-  */}
 
-  {/* >>>>>>> 4c736c2af49ff574dcd901644fd94f72759535f7 */}
       </div>
       <div>
+      <Link to ='/author'>
         <Button
           onClick = {() => {
             console.log("You clicked me");
@@ -44,9 +40,12 @@ class App extends React.Component{
           type="button"
           buttonStyle="btn--author"
           buttonSize="btn--large"
-          >Author and His Arguments</Button>
+          >AUTHOR AND HIS ARGUMENTS
+          </Button>
+          </Link>
       </div>
       <div>
+      <Link to ='/map'>
         <Button
           onClick = {() => {
             console.log("You clicked me");
@@ -54,9 +53,11 @@ class App extends React.Component{
           type="button"
           buttonStyle="btn--map"
           buttonSize="btn--large"
-          >Interactive Map</Button>
+          >INTERACTIVE MAP</Button>
+          </Link>
       </div>
       <div>
+      <Link to ='/list'>
         <Button
           onClick = {() => {
             console.log("You clicked me");
@@ -64,9 +65,11 @@ class App extends React.Component{
           type="button"
           buttonStyle="btn--readings"
           buttonSize="btn--large"
-          >Readings List</Button>
+          >READINGS LIST</Button>
+          </Link>
       </div>
       <div>
+      <Link to ='/citation'>
         <Button
           onClick = {() => {
             console.log("You clicked me");
@@ -74,9 +77,11 @@ class App extends React.Component{
           type="button"
           buttonStyle="btn--citation"
           buttonSize="btn--large"
-          >Following a Citation?</Button>
+          >FOLLOWING A CITATION?</Button>
+          </Link>
       </div>
       <div>
+      <Link to ='/history'>
         <Button
           onClick = {() => {
             console.log("You clicked me");
@@ -84,9 +89,11 @@ class App extends React.Component{
           type="button"
           buttonStyle="btn--proj"
           buttonSize="btn--large"
-          >Project History</Button>
+          >PROJECT HISTORY</Button>
+          </Link>
       </div>
       <div>
+      <Link to ='/methods'>
         <Button
           onClick = {() => {
             console.log("You clicked me");
@@ -94,9 +101,11 @@ class App extends React.Component{
           type="button"
           buttonStyle="btn--methods"
           buttonSize="btn--large"
-          >Methods</Button> 
+          >METHODS</Button> 
+          </Link>
       </div>
       <div>
+      <Link to ='/data'>
         <Button
           onClick = {() => {
             console.log("You clicked me");
@@ -104,9 +113,11 @@ class App extends React.Component{
           type="button"
           buttonStyle="btn--data"
           buttonSize="btn--large"
-          >Data</Button> 
+          >DATA</Button> 
+          </Link>
       </div>
       <div>
+      <Link to ='/credits'>
         <Button
           onClick = {() => {
             console.log("You clicked me");
@@ -114,7 +125,8 @@ class App extends React.Component{
           type="button"
           buttonStyle="btn--credits"
           buttonSize="btn--large"
-          >Credits, Contributors, Builders</Button> 
+          >CREDITS, CONTRIBUTORS, AND BUILDERS</Button> 
+          </Link>
       </div>
       
     </div>
