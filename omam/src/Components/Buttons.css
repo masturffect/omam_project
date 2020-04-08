@@ -4,80 +4,65 @@
     padding: 40px 30px;
     display: inline-block;
     text-align: center;
-    border-radius: 15px;
-    box-shadow: 0 10px #999;
+    white-space: normal;
+    width: 200px;
 }
 
-.btn:hover {background-color: black}
+.btn:hover {background-color: black; color: white;}
 
 .btn:active {
     background-color: black;
-    box-shadow: 0 6px #666;
+    color: white;
     transform: translateY(5px);
 }
 
 .btn--author{
     position: absolute;
     left: 1050px;
-    top: 70px;
-    color: white;
-    background-color: green;
+    top: 50px;
 }
 
 .btn--map{
     position: absolute;
     left: 450px;
     top: 70px;
-    color: white;
-    background-color: blueviolet;
 }
 
 .btn--readings{
     position: absolute;
     left: 70px;
     top: 250px;
-    color: white;
-    background-color: orangered;
 }
 
 .btn--citation{
     position: absolute;
-    left: 30px;
+    left: 70px;
     top: 480px;
-    color: white;
-    background-color: darkslategrey;
 }
 
 .btn--proj{
     position: absolute;
     left: 450px;
     top: 680px;
-    color: white;
-    background-color: saddlebrown;
 }
 
 .btn--methods{
     position: absolute;
     left: 1580px;
     top: 250px;
-    color: white;
-    background-color: rgb(17, 82, 17);
 }
 
 .btn--data{
     position: absolute;
-    left: 1600px;
+    left: 1580px;
     top: 480px;
-    color: white;
-    background-color: maroon;
 }
 
 .btn--credits{
     position: absolute;
     left: 1000px;
-    top: 680px;
-    color: white;
-    background-color: darkgoldenrod ;
+    top: 660px;
+    width: 300px
 }
 
 .btn--large{
@@ -87,6 +72,5 @@
     padding: 40px 30px;
     display: inline-block;
     text-align: center;
-    border-radius: 15px;
-    box-shadow: 0 10px #999;
+    border-radius: 10px;
 }
