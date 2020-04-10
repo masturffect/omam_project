@@ -5,7 +5,7 @@
     display: inline-block;
     text-align: center;
     white-space: normal;
-    width: 200px;
+    width: 300px;
 }
 
 
@@ -74,5 +74,5 @@
     padding: 40px 30px;
     display: inline-block;
     text-align: center;
-    border-radius: 10px;
+    border-radius: 30px;
 }
