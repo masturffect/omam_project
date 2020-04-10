@@ -20,13 +20,13 @@
 
 .btn--author{
     position: absolute;
-    left: 1050px;
+    left: 1080px;
     top: 60px;
 }
 
 .btn--map{
     position: absolute;
-    left: 450px;
+    left: 500px;
     top: 70px;
 }
 
@@ -44,25 +44,25 @@
 
 .btn--proj{
     position: absolute;
-    left: 450px;
+    left: 500px;
     top: 680px;
 }
 
 .btn--methods{
     position: absolute;
-    left: 1580px;
+    left: 1540px;
     top: 250px;
 }
 
 .btn--data{
     position: absolute;
-    left: 1580px;
+    left: 1540px;
     top: 480px;
 }
 
 .btn--credits{
     position: absolute;
-    left: 1000px;
+    left: 1080px;
     top: 660px;
     width: 300px
 }
