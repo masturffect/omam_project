@@ -10,6 +10,7 @@ const STYLES = [
     "btn--methods",
     "btn--data",
     "btn--credits",
+    "btn--home",
 ];
 
 const SIZES = ["btn--large"];

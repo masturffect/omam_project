@@ -67,6 +67,12 @@
     width: 300px
 }
 
+.btn--home{
+    position: absolute;
+    left: 0px;
+    top: 0;
+    width: 150px
+}
 .btn--large{
     font-family: 'TitlingGothicFBCompRegular';
     font-size: 22px;
