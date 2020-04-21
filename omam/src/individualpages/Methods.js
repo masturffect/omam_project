@@ -3,6 +3,7 @@ import { Button } from '../Components/Buttons'
 import {Link} from 'react-router-dom'
 import Backdrop from "./Methods_Image1.jpg"
 import SideDB from "./Methods_Image2.jpg"
+import './Methods.css'
 
 function Methods(){
     return(
@@ -18,7 +19,10 @@ function Methods(){
             >HOME
           </Button>
       </Link>
-            <img src={Backdrop} alt="Backdrop" /> 
+		<div className="Backdrop">
+			<img src={Backdrop} alt="Backdrop" /> 
+			<caption>OMAM’s “datafication” process.</caption>
+		</div>
       <text>This section describes the datafication processes used in OMAM—transforming primary source material into database categories and subsequent map symbology. This procedure varied for each of the three elements depicted on OMAM’s digital map (the Union army, instances of guerrilla violence, and guerrillas’ domestic supply line). Most important in these descriptions are the decisions I made when converting primary source text to coded information in databases. Marrying historical source’s diverse psychological motives, controversial definitions, cryptic messages, and incomplete evidence with computer software’s calculated and rigid logic can feel like fitting a square peg in a round hole. Consequently, the historian who quantifies, measures, and maps subjective evidence introduces a new layer of human imperfection with each decision they make; how I datafied evidence and the information I chose to map versus the information I left unmapped says something about my own biases and desires. In disclosing these decisions, I hope to improve upon not only our interpretation of guerrilla warfare, but also our methods for collecting, preserving, and analyzing the past.
 
 Using a CD-ROM version of the OR, I keyword-searched all 128 volumes using a list I created with the assistance of historians Matthew C. Hulbert, Patrick Lewis, and Joseph M. Beilein, Jr. That list is as follows, with the number of times each keyword appeared in the OR displayed in parentheses:
