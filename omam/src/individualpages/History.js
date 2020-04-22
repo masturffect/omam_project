@@ -13,7 +13,7 @@ function History(){
             }}
             type="button"
             buttonStyle="btn--home"
-            buttonSize="btn--large"
+            buttonSize="btn--homesize"
             >HOME
           </Button>
       </Link>
@@ -40,7 +40,6 @@ The result of all this? Most embarrassingly, my master’s thesis contains dozen
 </body>
 <body>
   Version 2.0  
-//stuff
 Despite its many flaws, I presented this project at multiple academic conferences and word about my spatial methodology and its resulting conclusions confirmed some of the more qualitative arguments coming from my colleagues in the Civil War guerrilla field. Joseph M. Beilein, Jr. and Matthew C. Hulbert approached me about publishing my findings in an upcoming edited collection.
 
 While the text that became my chapter in Beilein and Hulbert’s Civil War Guerrilla (2015) went through the history profession’s normal peer-review processes, those processes did not (and still do not) exist for digital history projects. Therefore, the publication of partly-textual, partly-digital scholarship brought about an awkward problem: how to cite a changing digital database in non-changing text? Historians must be transparent by showing the source material that led to their conclusions, but this project’s source material was organized in a dynamic database that still didn’t have a home online. 
@@ -53,7 +52,6 @@ Ultimately, Version 2.0 was quick and dirty—its existence rushed by my desire 
 </body>
 <body>
 Version 3.0 – StoryMap and Interactive Map with Accessible Database
-//stuff
 While a PhD student at UGA, I revamped the OMAM website built using ArcGIS Online into the StoryMap link above. Version 3.0 was an improvement on numerous levels: the text encompassed updated conclusions from my dissertation research, the site displayed several static maps exported from ArcGIS that visualized my conclusions in a clear way, my data and research methods were laid bare in their most transparent form ever, and the database was publically-accessible. 
 
 Two flaws remained. First, while the text and static maps reflected conclusions from my dissertation research (mostly conducted in Kentucky), the Interactive Map still only includes information from my master’s thesis. I chose not to rebuild an interactive map until I could do so properly—with grant money to hire Computer Science and GeoScience expertise. 
