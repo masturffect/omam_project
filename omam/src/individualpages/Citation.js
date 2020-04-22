@@ -12,7 +12,7 @@ function Citation(){
             }}
             type="button"
             buttonStyle="btn--home"
-            buttonSize="btn--large"
+            buttonSize="btn--homesize"
             >HOME
           </Button>
       </Link>
