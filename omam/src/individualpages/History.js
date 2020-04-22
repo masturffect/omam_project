@@ -39,7 +39,7 @@ Most importantly, I could not simultaneously view or edit large quantities of in
 The result of all this? Most embarrassingly, my master’s thesis contains dozens of footnotes with broken links referencing a Neatline project that was never publically-accessible and no longer exists. This is professionally unacceptable and I’ve had to live with that. But I did learn the hard way that ArcGIS—clunky time function and all—was the most powerful spatial analytics program available to me. 
 </body>
 <body>
-Version 2.0
+  Version 2.0  
 //stuff
 Despite its many flaws, I presented this project at multiple academic conferences and word about my spatial methodology and its resulting conclusions confirmed some of the more qualitative arguments coming from my colleagues in the Civil War guerrilla field. Joseph M. Beilein, Jr. and Matthew C. Hulbert approached me about publishing my findings in an upcoming edited collection.
 
@@ -67,7 +67,6 @@ Second, while the database from my master’s thesis was publically-accessible, 
           5. Footnotes 61 and 63 from Andrew Fialka, “Controlled Chaos: Spatiotemporal Patterns within Missouri’s Irregular Civil War,” in The Civil War Guerrilla: Unfolding the Black Flag in History, Memory, and Myth, Joseph Beilein, Jr. & Matthew C. Hulbert, eds. (Lexington: University of Kentucky Press, 2015), 61, 64.
           6. 1) follow the link to ‘Interactive Map with Accessible Database’; 2) Click ‘Content’ to pull up a menu where you can toggle off and on the map’s layers; 3) Expand the ‘Of Methods and Madness’ menu by clicking on the gray triangle next to ‘Of Methods and Madness’; 4) Scroll down to the layer entitled ‘Primary Source Data Displayed by City (Time)’; 5) Click on the ‘Show Table’ icon below any of the subfields in that layer. 
           </footer>
-            <h1>Behind the scenes!</h1>
         </div>
     )
 }
