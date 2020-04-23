@@ -26,15 +26,22 @@
     padding: 20px 40px;
     text-align: left;
     flex-direction: column;
-    align-items: center;
-    justify-content: justify;
-    text-justify: inherit;
+    align-items: left;
+    justify-content: left;
     font-size: 30px;
 }
 .c1{
     font-size: 15px;
     position: center;
 }
+.indent1{
+    text-align: left;
+    align-items: left;
+    text-indent: inherit;
+    justify-content: left;
+    font-size: 30px;
+}
+
 .data05{
     border: 5px;
     border: 6px solid #000000;
