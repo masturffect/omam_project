@@ -286,17 +286,17 @@ function Methods(){
 			</p>
 
 			<hr></hr>
-			<p id="foot1">
-				1. Robert R. Mackey, The Uncivil War: Irregular Warfare in the Upper South, 1861-1865 (Norman: University of Oklahoma Press, 2005), 13-14. Mackey’s work is one of the most useful for delineating definitions for guerrilla activity. 
+			<p id="foot1" className="p2">
+				[1] Robert R. Mackey, The Uncivil War: Irregular Warfare in the Upper South, 1861-1865 (Norman: University of Oklahoma Press, 2005), 13-14. Mackey’s work is one of the most useful for delineating definitions for guerrilla activity. 
 			</p>
-			<p id="foot2">
-				2. Fellman, Inside War, 238.
+			<p id="foot2" className="p2">
+				[2] Fellman, Inside War, 238.
 			</p>
-			<p id="foot3">
-				3. If the Union army or civilians noted acts of violence or property destruction without naming a perpetrator, I categorized the perpetrator as a civilian. 
+			<p id="foot3" className="p2">
+				[3] If the Union army or civilians noted acts of violence or property destruction without naming a perpetrator, I categorized the perpetrator as a civilian. 
 			</p>
-			<p id="foot4">
-				4. Michael Fellman provides an excellent examination of this phenomenon, which he calls “survival lying.” See Fellman, Inside War, 58, 264, 49-52, 195, 228.
+			<p id="foot4" className="p2">
+				[4] Michael Fellman provides an excellent examination of this phenomenon, which he calls “survival lying.” See Fellman, Inside War, 58, 264, 49-52, 195, 228.
 			</p>
 			<br></br>
 			<br></br>
