@@ -48,9 +48,10 @@ const Author = () =>(
         troops assaulted an entrenched Confederate line, resulting in one of the war’s most lop-sided battles. 
         Regiment after regiment of Union soldiers were sent running across an open field… uphill… towards southerners 
         firing from behind a stone wall… and against artillery pieces safely firing from atop the hill they were trying to storm. 
-        It was a slaughter. <figcaption1> Me in uniform. Such a cool job. I worked under Greg Mertz.</figcaption1>
-        </p> <br></br> 
-
+        It was a slaughter. 
+        </p>
+        <figcaption1> Me in uniform. Such a cool job. I worked under Greg Mertz.</figcaption1><br>
+        </br>
       <p className = "p1">
       After work, I read up on the guerrilla war literature that would form the bibliography of my master’s thesis at WVU.
        One theme dominated: guerrillas were bad. Very bad. They were savage, mutants, and killed at random. 
@@ -83,7 +84,7 @@ const Author = () =>(
       logic—Robert E. Lee’s legendary strategy and tactics at the same battle. Because historians 
       never looked at guerrilla war with a bird’s-eye-view, all they saw was savagery. Pretty simple, really.
       </p>
-      <br></br> <br></br><br></br> <br></br><br></br> <br></br><br></br> <br></br>
+      <br></br> <br></br><br></br> <br></br><br></br> <br></br><br></br> <br></br><br></br>
       <figcaption3> Aaron Sheehan-Dean on the right</figcaption3>
       <br></br> <br></br>
       <p className = "p1">
