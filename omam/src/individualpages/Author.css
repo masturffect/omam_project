@@ -1,4 +1,80 @@
-.Author{
-    margin: 40px;
-    border: 6px blue;
+.p1{
+    padding: 20px 40px;
+    text-align: left;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.ranger{
+    border: 5px;
+    float: right; 
+    margin: 3px 12px 6px 0px; 
+    border: 7px solid #000000;
+}
+
+.fellman{
+    border: 5px;
+    float: right; 
+    width: 29%;
+    margin: 3px 12px 6px 0px; 
+    border: 7px solid #000000;
+}
+
+.sutherland{
+    border: 5px;
+    float: left; 
+    width: 30%;
+    margin: 3px 12px 6px 0px; 
+    border: 7px solid #000000;
+}
+
+.asd{
+    border: 5px;
+    float: left; 
+    width: 20%;
+    margin: 3px 12px 6px 0px; 
+    border: 7px solid #000000;
+}
+
+
+.arcg{
+    border: 5px;
+    float: left; 
+    width: 99%;
+    margin: 3px 12px 6px 0px; 
+    border: 7px solid #000000;
+}
+
+
+.header{
+    font-size: 50px;
+}
+.header2{
+    font-size: 35px;
+}
+
+figcaption1{
+    font-size: 17px;
+    float: right;
+    width: 30%;
+    text-align: center;
+    text-indent: 0;  
+}
+
+figcaption2{
+    font-size: 24px;
+    float: center;
+    width: 30%;
+    text-align: center;
+    text-indent: 0;  
+}
+
+figcaption3{
+    font-size: 20px;
+    float: left;
+    width: 30%;
+    text-align: left;
+    text-indent: 50px;  
 }
