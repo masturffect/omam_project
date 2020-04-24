@@ -127,7 +127,7 @@ function Methods(){
 				</p>
 			</p>
 			<p className="p2">
-				<i>Categorization of Guerilla Violence</i>
+				<em>Categorization of Guerilla Violence</em>
 			</p>
 			<p className="p2">
 				I.<b>Ugr</b> or <b>Cgr</b> – reports of guerrilla activity (U = pro-Union, C = pro-Confederate)
@@ -178,7 +178,7 @@ function Methods(){
 				</p>
 			</p>
 			<p className="p2">
-				<i>Categorization of Union Army Presence</i>
+				<em>Categorization of Union Army Presence</em>
 			</p>
 			<p className="p2">
 				II. <b>ua</b> or <b>Ulocal</b> - report on presence of Union army (ua = Union army; Ulocal = local representative of Union)
@@ -234,7 +234,7 @@ function Methods(){
 				</p>
 			</p>
 			<p className="p2">
-				<i>Categorization of Guerrillas’ Domestic Supply Line</i>
+				<em>Categorization of Guerrillas’ Domestic Supply Line</em>
 			</p>
 			<p className="p2">
 				III. <b>civ</b> - report on civilian activity
@@ -267,7 +267,7 @@ function Methods(){
 				</p>
 			</p>
 			<p className="p2">
-				<i>Difficulties in Assigning Descriptors</i>
+				<em>Difficulties in Assigning Descriptors</em>
 			</p><br></br>
 			<p className="p2">
 				The descriptor combinations listed in the above table are the most common; however, others did exist. For example, on rare occasions, civilians killed other civilians. In this example, the actor is a civilian (civ), the action is lethal violence (lethal), and the civilian acted upon another civilian (civ). In these instances, the classification system’s flexibility encompassed the guerrilla conflict’s variety of violence. Still, the above combinations make up a vast majority of the OMAM database.
