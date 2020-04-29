@@ -23,6 +23,10 @@ function History(){
 
         <h1 className='header'>Project History</h1>
         <p className="p2">
+            A link to an introduction video : 
+            <a href ="https://youtu.be/ZLdmTsYHQyY"> The History Behind OMAM </a>
+        </p>
+        <p className="p2">
           This website represents version 4.0 of the project. I built versions 1.0 through 3.0 under trying conditions—two worth mentioning here. First, I enrolled in one GIS class as a master’s student, but the rest of my knowledge concerning the necessary technology for this project came almost exclusively from YouTube tutorials. Second, all of the grants I won as a graduate student contributed to research trips, meaning I built all of the project websites by myself with no money or proper training.<a href="#footer1">[1]</a>  (Excellent open-source software for building websites exists, but we all know free isn’t free—they come with harsh limitations, especially for a historian trying to adapt technology built with a different disciplines’ needs in mind.) 
         </p>
         <p className="p2">
